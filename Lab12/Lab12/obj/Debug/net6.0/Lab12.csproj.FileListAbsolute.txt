@@ -1,0 +1,7 @@
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.AssemblyInfoInputs.cache
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.AssemblyInfo.cs
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.RazorAssemblyInfo.cache
+C:\Users\sexyg\source\repos\Lab12\Lab12\obj\Debug\net6.0\Lab12.RazorAssemblyInfo.cs

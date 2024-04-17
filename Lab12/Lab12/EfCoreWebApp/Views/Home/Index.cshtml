@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Shared.Models.Company>
+
+<h1>Companies</h1>
+
+<ul>
+    @foreach (var company in Model)
+    {
+        <li>@company.Name - @company.Address - Employees: @company.EmployeeCount</li>
+    }
+</ul>
